@@ -12,20 +12,32 @@ Supported on Python 3 and OpenCV 3+. Tested on macOS.
 
 ## Example Results
 
-<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Dunkirk_barcode.jpg" width="49%"> <img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Blade_Runner_2049_barcode.jpg" width="49%">
-Dunkirk, Blade Runner 2049
+<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Dunkirk_barcode.jpg" width="100%"> 
+Dunkirk
 
-<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Ratatouille_barcode.jpg" width="49%"> <img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Tangled_barcode.jpg" width="49%">
-Ratatouille, Tangled
+<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Blade_Runner_2049_barcode.jpg" width="100%">
+Blade Runner 2049
 
-<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Frozen_barcode.jpg" width="49%"> <img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/LOTR_FOTR_barcode.jpg" width="49%">
-Frozen, The Lord of the Rings: The Fellowship of the Ring
+<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Ratatouille_barcode.jpg" width="100%"> 
+Ratatouille
+
+<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Tangled_barcode.jpg" width="100%">
+Tangled
+
+<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/Frozen_barcode.jpg" width="100%"> 
+Frozen
+
+<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/compressed_barcode_examples/LOTR_FOTR_barcode.jpg" width="100%">
+The Lord of the Rings: The Fellowship of the Ring
 
 
 #### Uniform column mode
 
-<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/uniform_barcode_examples/Wall-E_barcode.jpg" width="49%"> <img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/uniform_barcode_examples/The_Handmaiden_barcode.jpg" width="49%">
-WALL-E, The Handmaiden
+<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/uniform_barcode_examples/Wall-E_barcode.jpg" width="100%"> 
+WALL-E
+
+<img src="https://github.com/andrewdcampbell/movie-barcodes/blob/master/uniform_barcode_examples/The_Handmaiden_barcode.jpg" width="100%">
+The Handmaiden
 
 ## Usage
 ```
